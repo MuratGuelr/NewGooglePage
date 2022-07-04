@@ -1,0 +1,204 @@
+.left-side 
+{
+    float: left;
+    display: inline;
+    padding: 15px;
+}
+
+.right-side 
+{
+    float: right;
+    display: inline;
+    padding: 15px;
+
+}
+
+.google-apps 
+
+{
+height: 20px;
+width: 20px;
+transition: 700ms;
+}
+
+.google-apps:hover
+{
+    transform: scale(1.2);
+}
+
+.sign-in-button 
+{
+margin-right: 6px;
+margin-left: 1em;
+background-color: #4585F1;
+color: white;
+padding: 8px 15px 8px 15px;
+border-radius: 2px;
+border: none;
+}
+
+.sign-in-button:hover
+{
+background-color: #1462e8;
+}
+
+a 
+{
+    text-decoration: none;
+    color: #747474;
+}
+
+a:hover 
+{
+    text-decoration: underline;
+}
+
+.google-image 
+{
+    margin: 0 auto;
+    width: 20%;
+    
+
+}
+
+.search-bar
+{
+    margin: 0 auto;
+    width: 25%;
+    border: rgb(139, 132, 132) 1px solid;
+    border-radius: 60px;
+    box-shadow: 1px 1px 10px;
+    margin-bottom: 4px;
+    padding: 5px;
+    transition: 1000ms;
+    text-decoration: none;
+}
+.search-bar:hover
+{
+    margin: 0 auto;
+    width: 38.48%;
+    border: rgb(139, 132, 132) 1px solid;
+    border-radius: 60px;
+    box-shadow: 1px 1px 10px;
+    margin-bottom: 4px;
+    padding: 5px;
+}
+
+
+
+input[type=text]
+{
+    border-radius: 7px;
+    text-decoration: none;  
+    width: 60px;
+    transition: 1000ms;
+    border: none;
+}
+
+input[type=text]:hover
+{
+    width: 510px;
+    border: none;
+}
+
+input[type=text]:focus
+{
+    outline: 0;
+    border: none;
+}
+
+
+
+
+
+.search-icon 
+{
+    display: inline;
+    float: left;
+    padding: 3px;
+}
+
+.search-buttons
+{
+    margin: auto auto;
+    width: 19%;
+    padding: 1em;
+
+}
+
+.google-search-button1
+{
+    padding: 10px; 
+    border-radius: 3px;  
+    border: none; 
+    margin-right: 10px; 
+    text-decoration: none;
+}
+
+.google-search-button1:hover
+{
+    background-color: rgb(232, 232, 232);
+    color: black;
+    text-decoration: none;
+}
+
+.google-search-button1 a
+{
+    border: none; 
+    text-decoration: none;
+}
+
+.google-search-button1:hover a
+{
+    text-decoration: none;
+}
+
+.google-search-button2
+{
+    padding: 10px;  
+    border-radius: 3px;  
+    border: none; 
+    transition: 300ms;
+}
+
+.google-search-button2:hover
+{
+    background-color: rgb(232, 232, 232);
+    color: black;
+    text-decoration: none;
+    transform: scale(1.1);
+}
+
+.google-search-button2 a
+{
+    border: none; 
+    text-decoration: none;
+}
+
+.google-search-button2:hover a
+{
+    text-decoration: none;
+}
+
+.left-foot 
+{
+    margin-top: 25%;
+    background-color: #F2F2F2;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: left;
+}
+
+.advertising 
+{
+    margin-left: 15px;
+    margin-right: 15px;   
+}
+
+.right-foot 
+{
+    margin-top: -28px;
+    float: right;
+    margin-left: 15px;
+}
